@@ -5,8 +5,8 @@ StockPoint Pro adalah sistem manajemen gudang dan POS (Point of Sale) yang kompr
 ## 👨‍💻 Dibuat Oleh
 
 **MOHAMAD MARSTIAS BILLY (koncoweb)**
-- YouTube: [KONCOWEB](https://www.youtube.com/@koncoweb)
-- GitHub: [koncoweb](https://www.youtube.com/@mohmbilly)
+- YouTube: [KONCOWEB](https://www.youtube.com/@mohmbilly)
+- GitHub: [koncoweb](https://github.com/koncoweb)
 
 ## 🌟 Fitur
 
